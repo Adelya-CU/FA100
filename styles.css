@@ -1,0 +1,10 @@
+body {
+    background-color: lavender;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 80px;
+    color: lightcoral;
+    text-align: center;
+}
